@@ -4,7 +4,7 @@ A chat application built using Node.js with Express and Socket.IO as part of [Th
 
 This application allows one to create and chat to other users in chatrooms.
 
-It can be viewed on Heroku [here]().
+It can be viewed on Heroku [here](https://warm-meadow-54801.herokuapp.com/).
 
 Setup
 -----
