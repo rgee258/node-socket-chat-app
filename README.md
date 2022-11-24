@@ -1,4 +1,4 @@
-cg# Node Socket Chat App
+# Node Socket Chat App
 
 A chat application built using Node.js with Express and Socket.IO as part of [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) available on Udemy.
 
